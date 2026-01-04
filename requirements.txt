@@ -1,0 +1,7 @@
+einops
+numpy
+PyYAML
+scikit_learn
+tensorboardX
+#torch
+transformers
